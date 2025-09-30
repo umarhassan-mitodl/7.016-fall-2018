@@ -4,6 +4,8 @@ description: ''
 file: /courses/7-016-introductory-biology-fall-2018/9250af14187c73af519ecaf4d1b08e10_83-yKXuRDGc.pdf
 file_size: 56153
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

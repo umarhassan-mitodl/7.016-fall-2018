@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides four of the seven assigned problem sets for the
   course along with solutions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -88,12 +90,12 @@ The news brief should be a 1–2 page summary of an exciting recent development 
 
 You can check out the following links to identify a topic for your proposal:
 
-{{% resource_link "3429d686-b151-446b-98cf-1f8d8373d0c5" "_The Scientist_" %}}
+[_The Scientist_](https://www.the-scientist.com/)
 
-{{% resource_link "77d847d3-affa-4dfa-a360-35f51ef2a652" "_ASBMB Today_" %}}
+[_ASBMB Today_](https://www.asbmb.org/asbmb-today)
 
 Or you can find a topic in the popular press. You also have two other options besides the news brief.
 
-1\. You can refer to the {{% resource_link "1efd2310-0f93-4c3f-8f8d-e41013c079b6" "Protein Data Bank (PDB" %}}) and pick the structure of a protein to print on a 3D printer (you can find out how to do this using the coordinates of the protein structure on the web). Then you should submit the printed model along with a description of the protein and its physiological function.
+1\. You can refer to the [Protein Data Bank (PDB](http://www.rcsb.org/)) and pick the structure of a protein to print on a 3D printer (you can find out how to do this using the coordinates of the protein structure on the web). Then you should submit the printed model along with a description of the protein and its physiological function.
 
 2\. You can develop a classroom demo of topoisomerase. Prof. Imperiali showed a demo made with blue and yellow ethernet cables in class. The demo should be much better (!) and should show the actual function of topoisomerase in relieving supercoiling by cutting and rejoining the DNA strands.
